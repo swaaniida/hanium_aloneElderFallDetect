@@ -4,6 +4,16 @@ Intel RealSense D435i, Raspberry Pi 5, NCNN YOLO26n-Pose와 TSSTG를 이용해 �
 
 이 저장소는 전체 시스템 중 **RGB-D 기반 낙상 감지, 현장 데이터 수집, TSSTG 미세조정과 Raspberry Pi 실시간 추론**을 중심으로 구성되어 있습니다.
 
+## 시연 영상
+
+<p align="center">
+  <a href="https://youtu.be/Ehhn0QrakcE">
+    <img src="https://img.youtube.com/vi/Ehhn0QrakcE/maxresdefault.jpg" width="720" alt="2026 한이음 드림업 시연영상 (26_HC117)">
+  </a>
+</p>
+
+<p align="center"><b>이미지를 클릭하면 전체 시스템 시연 영상을 볼 수 있습니다.</b></p>
+
 ## 전체 시스템 파이프라인
 
 ```mermaid
