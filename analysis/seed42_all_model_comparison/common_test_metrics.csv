@@ -1,0 +1,6 @@
+﻿model,scope,accuracy,balanced_accuracy,fall_precision,fall_recall,fall_f1,non_fall_specificity
+Raw TSSTG,common_test_20,0.7,0.7,1.0,0.4,0.5714285714285715,1.0
+위치 1 기존,common_test_20,0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+위치 1 Dropout,common_test_20,0.75,0.75,0.7272727272727273,0.8,0.761904761904762,0.7
+위치 2 Dropout,common_test_20,0.6,0.6,0.5833333333333334,0.7,0.6363636363636365,0.5
+전체 결합 Dropout,common_test_20,0.8,0.8,0.8,0.8,0.8000000000000002,0.8

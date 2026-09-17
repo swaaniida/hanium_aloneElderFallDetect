@@ -1,0 +1,13 @@
+numpy
+torch
+ultralytics
+huggingface_hub
+opencv-python
+pyrealsense2
+pandas
+tqdm
+requests
+paho-mqtt
+Flask
+matplotlib
+Pillow

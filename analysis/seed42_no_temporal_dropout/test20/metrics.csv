@@ -1,0 +1,5 @@
+﻿model,accuracy,balanced_accuracy,fall_precision,fall_recall,fall_f1,non_fall_specificity
+Raw TSSTG,0.7,0.7,1.0,0.4,0.5714285714285715,1.0
+위치 1 (Dropout 미적용),0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+위치 2 (Dropout 미적용),0.7,0.7,0.7,0.7,0.7,0.7
+전체 결합 (Dropout 미적용),0.8,0.8,0.8,0.8,0.8000000000000002,0.8

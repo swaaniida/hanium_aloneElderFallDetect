@@ -1,0 +1,10 @@
+﻿scope,model,accuracy,balanced_accuracy,fall_precision,fall_recall,fall_f1,non_fall_specificity
+common_test_20,raw_tsstg,0.7,0.7,1.0,0.4,0.5714285714285715,1.0
+common_test_20,baseline,0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+common_test_20,temporal_dropout,0.75,0.75,0.7272727272727273,0.8,0.761904761904762,0.7
+location_1_test_10,raw_tsstg,0.7,0.7,1.0,0.4,0.5714285714285715,1.0
+location_1_test_10,baseline,0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+location_1_test_10,temporal_dropout,0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+location_2_test_10,raw_tsstg,0.7,0.7,1.0,0.4,0.5714285714285715,1.0
+location_2_test_10,baseline,0.8,0.8,0.8,0.8,0.8000000000000002,0.8
+location_2_test_10,temporal_dropout,0.7,0.7,0.6666666666666666,0.8,0.7272727272727272,0.6

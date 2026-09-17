@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*credentials*.json
+*service-account*.json
+
+# Raw/private datasets and generated artifacts
+/collected_pose_data/
+/data/
+/data_processed/
+/tsstg_binary_dataset/
+/outputs/
+/exports/
+/run_*/
+
+# Superseded offline single-frame prototype
+/src/
+/prepare_dataset.py
+
+# Large archives and local reports
+/*.zip
+/*.hwp
+/*.hwpx
+/*.pptx
+/*.pdf
+
+# Videos and array datasets
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.npz
+*.npy
+
+# Model weights: distribute with Git LFS or GitHub Releases
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.bin
+
+# Runtime files
+*.log
+.pending_review.*
+latest_buffer.*
+latest_review.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
